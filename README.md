@@ -1,4 +1,3 @@
-# party2031end
 
 <html>
 <head>
@@ -113,7 +112,7 @@ a.p:hover span {
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
 <h1><span class="yellow"><marquee behavior="left">!!! 2023年3月31日、法規技術情報課解散会＠山泉楼 !!!</marquee></span></h1>
-    <h2><span class="snow">室課最終日での開催となりました。</span></h2>
+    <h2><span class="snow">99期、最終日での開催となりました。</span></h2>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
@@ -148,7 +147,7 @@ a.p:hover span {
 <h2><span class="snow">今回も幹事の皆様のご尽力で２時間たっぷり楽しませて頂きました！<br>どうもありがとう御座いました。
 	</span></h2>
 <footer>
-    <p><span class="grey">Copyright S.Hada 2023 @法規技術情報課(RTID)</span></p>
+    <p><span class="blue">Copyright S.Hada 2023 @法規技術情報課(RTID)</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
