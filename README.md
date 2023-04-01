@@ -156,7 +156,7 @@ a.p:hover span {
 <h2><span class="snow">今回も幹事の皆様のご尽力で２時間たっぷり楽しませて頂きました！<br>どうもありがとう御座いました。
 	</span></h2>
 <footer>
-    <p><span class="blue">Copyright S.Hada 2023 @法規技術情報課(RTID)</span></p>
+    <p><span class="snow">Copyright S.Hada 2023 @法規技術情報課(RTID)</span></p>
 </footer>
     
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
