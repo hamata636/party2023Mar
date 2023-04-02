@@ -144,7 +144,7 @@ a.p:hover span {
 Mobile：080-4904-4085　（Ext.8747245)<br>
 E-mail：takaya_toyota@jp.honda<br>
 *********************************<br><br>
-
+	</p>
     
     
 <h2><span class="snow">解散会のスタート！</span></h2>
