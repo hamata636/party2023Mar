@@ -9,6 +9,7 @@
 
 <!--ここから上はお決まりの定型文です-->
 
+<title>法規技術情報課、解散会</title>
 
 <!--ここからが表現の書式などを決めるcssという部分-->
 
@@ -96,6 +97,15 @@ a.p:hover span {
    p.note { display: none; }
 }
 
+@-webkit-keyframes animeY {
+	0%	{ -webkit-transform: rotateY(-0deg); }
+	100%	{ -webkit-transform :rotateY(360deg); }
+}
+@keyframes animeY {
+	0%	{ transform: rotateY(-0deg); }
+	100%	{ transform :rotateY(360deg); }
+}
+
 </style>
 
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
@@ -116,7 +126,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
-<h2><span class="snow">会の冒頭で熱弁をふるう！</span></h2>
+<h2><span class="snow">解散会のスタート！</span></h2>
 <a href="20230331_001.JPG" data-lightbox="abc"><img src="20230331_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230331_002.JPG" data-lightbox="abc"><img src="20230331_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20230331_003.JPG" data-lightbox="abc"><img src="20230331_003.JPG" alt="サンプル画像" width="900" /></a>
