@@ -97,14 +97,7 @@ a.p:hover span {
    p.note { display: none; }
 }
 
-@-webkit-keyframes animeY {
-	0%	{ -webkit-transform: rotateY(-0deg); }
-	100%	{ -webkit-transform :rotateY(360deg); }
-}
-@keyframes animeY {
-	0%	{ transform: rotateY(-0deg); }
-	100%	{ transform :rotateY(360deg); }
-}
+
 
 </style>
 
