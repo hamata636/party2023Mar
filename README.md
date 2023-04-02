@@ -118,7 +118,7 @@ a.p:hover span {
     <h2><span class="snow">99期、最終日での開催となりました。</span></h2>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<p>法規技術情報課の皆様<br><br>
+<h3><span class="snow">法規技術情報課の皆様<br><br>
 
 お世話になっております。4MOC 開発企画部 法規技術情報課 豊田(尊)です。<br><br>
 
@@ -137,14 +137,14 @@ a.p:hover span {
 
 宜しくお願い致します。<br><br>
 
-*********************************<br>
+******************************************<br>
 豊田 尊也（Takaya Toyota）<br>
 本田技研工業(株) 四輪事業本部<br>
 開発戦略統括部 開発企画部 法規技術情報課<br>
 Mobile：080-4904-4085　（Ext.8747245)<br>
 E-mail：takaya_toyota@jp.honda<br>
-*********************************<br><br>
-	</p>
+******************************************<br><br>
+</span></h3>
     
     
 <h2><span class="snow">解散会のスタート！</span></h2>
